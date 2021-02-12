@@ -241,6 +241,8 @@ sample logging output shows:
 Congratulations! You have used Spring to develop an edge service application that can
 proxy and filter requests for your microservices.
 
+P.S - Additionally, keycloak security has been integrated with the edge service application in order to authenticate and authorize the requests.
+
 == See Also
 
 The following guides may also be helpful:
